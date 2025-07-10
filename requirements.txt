@@ -1,0 +1,3 @@
+openai-agent
+litellm
+python-dotenv
