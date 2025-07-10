@@ -15,7 +15,7 @@ lyrics_agent: Analyzes lyric (emotional/personal) poetry.
 
 narrative_agent: Analyzes narrative (story-based) poetry.
 
-dramatic_agent: Analyzes dramatic (performance/dialogue-based) poetry.<img width="1611" height="902" alt="code" src="https://github.com/user-attachments/assets/eecdfe1f-758c-45a1-8035-ce9afaa56d4b" />
+dramatic_agent: Analyzes dramatic (performance/dialogue-based) poetry.
 
 
 🛠️ Tech Stack
